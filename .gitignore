@@ -31,3 +31,6 @@ library/com/mayweather/java/test/
 webdatacrawler/src/main/resources/
 webdatacrawler/src/test/
 webdatacrawler/target/generated-sources/
+/out
+/.idea
+cool_projects.iml
